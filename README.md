@@ -5,4 +5,4 @@ Demo: <a href='http://puzzleconverterjs.appspot.com'>http://puzzleconverterjs.ap
 
 ##Note
 The source code can be read from the website because the whole program is written in JavasSript. <br>
-It is not a open source project so use it as reference.
+It is not an open source project so use it as reference.
